@@ -13,5 +13,5 @@
 📫 How to reach me:  
 [LinkedIn](www.linkedin.com/in/suryalaxmi-ravianandan) • surya.ravi@outlook.de
 
-📈 GitHub Stats:  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suravi73&show_icons=true&theme=radical)
+<!-- 📈 GitHub Stats:  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suravi73&show_icons=true&theme=radical) -->

@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Suryalaxmi Ravianandan
 
-<!--
-**suravi73/suravi73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**M.Sc. Data Science Candidate** | Semantic Web | Knowledge Graphs | LLM
 
-Here are some ideas to get you started:
+🔭 Currently working on my master's Thesis:  
+→ LLM-driven pipeline for auto-generating RML mappings  
+→ Transforming WoT Thing Descriptions → RDF triples  
+→ Real-time Knowledge Graph for Industry 4.0 scenarios
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack:  
+`Python` `RDFLib` `SPARQL` `PyTorch` `FastAPI` `JSON-LD`
+
+📫 How to reach me:  
+[LinkedIn](www.linkedin.com/in/suryalaxmi-ravianandan) • surya.ravi@outlook.de
+
+📈 GitHub Stats:  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suravi73&show_icons=true&theme=radical)

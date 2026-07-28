@@ -2,7 +2,7 @@
 
 **M.Sc. Data Science Candidate** | Semantic Web | Knowledge Graphs | LLM
 
-🔭 Currently working on my master's Thesis:  
+Master's Thesis:  
 → LLM-driven pipeline for auto-generating RML mappings  
 → Transforming WoT Thing Descriptions → RDF triples  
 → Real-time Knowledge Graph for Industry 4.0 scenarios
